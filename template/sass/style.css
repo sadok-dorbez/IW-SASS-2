@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Gothic&display=swap");
+
+nav {
+  background-color: #ffffff;
+}
+
+.fa-circle {
+  color: #ffffff;
+}
+
+.fa-instagram, .fa-facebook, .fa-twitter {
+  color: #e4bc01;
+}
+
+.nav-link {
+  color: #ffffff;
+}
+.nav-link:hover {
+  color: #e4bc01;
+}
+.nav-link:active, .nav-link:focus {
+  color: #e4bc01;
+}
+
+.nav-item {
+  margin-left: 3rem;
+}
+
+.nav-link {
+  font-size: 2.25rem;
+  font-family: "Poppins", Regular;
+  color: #242f51;
+}
+
+
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  color: #ffffff;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.navbar-brand {
+  background-color: #ffffff;
+  height: 7.625rem;
+  width: 7.625rem;
+}
+
+.page-section {
+    max-width: 100%;
+    height: auto;
+    background-color: #ffffff;
+  }
+  
+  .about {
+    font-size: 1.813rem;
+    font-family: "League Gothic", sans-serif;
+  }
+  
+  .first-section-content {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .first-section-text {
+    font-size: 1.0625rem;
+    color: #87898d;
+    font-family: "Poppins", Regular;
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+.page-footer {
+    background-color:#09142e;
+    height: 10.875rem;
+  }
+  #h4s1 {
+    color: #f55767;
+    font-family: "Poppins", SemiBold;
+  }
+
+  #h4s2 {
+    color: #2563ff;
+    font-family: "Poppins", SemiBold;
+  }
+
+  #h4s3 {
+    color: #40975f;
+    font-family: "Poppins", SemiBold;
+  }
+
+  .mt-3 lorem{
+    font-family: "Poppins", Regudlar;
+
+  }
+  @media (min-width: 990px) {
+    .navbar {
+      height: 7.625rem;
+    }}
